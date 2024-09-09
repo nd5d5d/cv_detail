@@ -23,6 +23,16 @@
         "name" : "CV website",
         "detail" : "React website development",
         "image": "android_app_menu.jpg"
+    }{
+        "id" : 5,
+        "name" : "Escape the stange town",
+        "detail" : "Unity 3D game development",
+        "image": "esc_stange_town.jpg"
+    },{
+        "id" : 6,
+        "name" : "Escape the stange town",
+        "detail" : "Unity 3D game development",
+        "image": "esc_stange_town.jpg"
     }
     
 ]
