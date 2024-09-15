@@ -4,7 +4,13 @@
         "id" : 1,
         "name" : "Income count application",
         "detail" : "Android application development",
-        "image": "android_app_login.jpg"
+        "image": "android_app_login.jpg",
+        "detail_image" : [
+            "android_app_menu.jpg",
+            "android_app_record_input.jpg",
+            "android_app_export_data.jpg",
+            "android_app_modify_record.jpg"
+        ]
     },
     {
         "id" : 2,
