@@ -1,6 +1,6 @@
 [     
     {
-        
+        https://github.com/nd5d5d/cv_detail/blob/main/data.json
         "id" : 1,
         "name" : "Income count application",
         "detail" : "Android application development",
@@ -8,7 +8,7 @@
         "detail_image" : [
             "android_app_menu.jpg",
             "android_app_record_input.jpg",
-            "android_app_export_data.jpg",
+            "andorid_app_export_data.jpg",
             "android_app_modify_record.jpg"
         ]
     },
